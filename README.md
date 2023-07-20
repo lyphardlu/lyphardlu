@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lyphardlu
-- 👀 I’m interested in coding
+- The Creator of stockATM
+- 👀 I have more than 15 year working experience in software programming
 
 <!---
 lyphardlu/lyphardlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
