@@ -3,7 +3,7 @@
 - more than 15 year working experience in software programming
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Lyphard;+The+Creater+of+StockMarketATM;+Over+15+years+of+programming+experience;+team+management+experience+and+Know+how+to+build+Startup+Company;+C/C++/CLI/Spice/Java/JavaScript/NodeJS/PHP/MySQL/ShellScript;+My+Hobbits:+Piano+performance+and+music+composition)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Lyphard;+The+Creater+of+StockMarketATM;+Over+15+years+of+programming+experience;+team+management+experience;+Know+how+to+build+Startup+Company;+C/C++/CLI/Spice/Java/JavaScript/NodeJS/PHP/MySQL/ShellScript;+My+Hobbits:+Piano+performance+and+music+composition)](https://git.io/typing-svg)
 
 
 
