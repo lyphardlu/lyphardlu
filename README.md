@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m @lyphardlu
-- 👀 The Creator of StockATM and BITLYPHA
+- 👀 The Creator of BITLYPHA and StockATM 
 - more than 16 year working experience in software programming
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Lyphard;+The+Creator+of+StockATM+and+BITLYPHA;+Over+16+years+of+programming+experience;+Managed+projects+and+Coached+4+Team+members;+Know+how+to+build+Startup+Company;+Programming:+C/Java/JavaScript/NodeJS/Spice/PHP/MySQL/ShellScript;+My+Hobbits:+Piano+performance+and+music+composition)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Lyphard;+The+Creator+of+BITLYPHA+and+StockATM;+Over+16+years+of+programming+experience;+Managed+projects+and+Coached+4+Team+members;+Know+how+to+build+Startup+Company;+Programming:+C/Java/JavaScript/NodeJS/Spice/PHP/MySQL/ShellScript;+My+Hobbits:+Piano+performance+and+music+composition)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://lyphardlu.github.io/BITLYPHA/">
